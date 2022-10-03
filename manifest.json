@@ -19,7 +19,6 @@
   "permissions": [
 	  "tabs",
 	  "storage",
-	  "notifications",
-    "https://www.instagram.com/direct/*"
+	  "notifications"
 	]
 }
